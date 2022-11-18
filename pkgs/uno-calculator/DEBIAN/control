@@ -1,0 +1,6 @@
+Package: uno-calculator
+Version: 1.2.5
+Maintainer: uno-platform
+Architecture: all
+Description: uno-calculator snap converted to .deb based on AUR PKGBUILD
+Depends: libnss3, libgtk-3-0

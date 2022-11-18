@@ -1,0 +1,8 @@
+_snapid="ZZjSue7jjdQXHsNz5RI9BH3Pf3UnRo0V"
+_snaprev="16"
+
+src="https://api.snapcraft.io/api/v1/snaps/download/${_snapid}_${_snaprev}.snap"
+sha256sums="a7d9346ec08ff396a667212013a7d28ccb3a95433b4136421c07d00f444d10ff  ${_snapid}_${_snaprev}.snap"
+
+desktop=uno-calculator.desktop
+_iconloc=meta/gui/icon.png
